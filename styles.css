@@ -21,7 +21,7 @@
 h2 {
     font-family: "AustralisProSwash-Italic";
     letter-spacing: 0.05em;
-    line-height: 1.8;
+    line-height: 0.4;
     color: #333333;
     text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0, 0, 0, 0.15);
 }
@@ -278,5 +278,8 @@ header {
     }
     .div1, .div1:before, .div1:after, .div2, .div2:before {
         background-color: #AB274F;
+    }
+    h2 {
+        line-height: 1.4;
     }
 }
