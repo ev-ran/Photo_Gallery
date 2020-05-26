@@ -1,4 +1,4 @@
-life link:  https://ev-ran.github.io/Photo_Gallery/.
+link:  https://ev-ran.github.io/Photo_Gallery/.
 
 ## Responsive Photo Gallery
  
